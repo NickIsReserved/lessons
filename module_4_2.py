@@ -10,4 +10,4 @@ test_function() # Вывод: Я в области видимости функц
 Попытка вызывать inner_function вне функции test_function вызывает ошибку:
 # NameError: name 'inner_function' is not defined.
 """
-inner_function()
+# inner_function()
