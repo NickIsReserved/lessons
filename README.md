@@ -6,6 +6,6 @@
   UU lessons
 </h1>
 <h2>
-  hey there
+  <!--hey there-->
   <span> <img src="https://mynickname.com/forumt4/NickIsReserved.gif"/> </span>
 </h2>
