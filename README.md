@@ -7,5 +7,5 @@
 </h1>
 <h2>
   <!--hey there-->
-  <span> <img src="https://mynickname.com/forum6t9/NickIsReserved.gif" align="right"/> </span>
+  <img src="https://mynickname.com/forum6t9/NickIsReserved.gif" align="right"/>
 </h2>
