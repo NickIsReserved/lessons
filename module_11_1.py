@@ -122,7 +122,6 @@ ax2.set_ylabel('Количество фильмов')
 ax2.set_xticks(unique_decades)
 ax2.set_xticklabels([f"{decade}s" for decade in unique_decades])
 
-# Adding value labels on top of each bar for the decade plot
 for i, v in enumerate(counts):
     ax2.text(unique_decades[i], v, str(v), ha='center', va='bottom')
 
