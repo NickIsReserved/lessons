@@ -38,6 +38,7 @@ total_balance = cursor.fetchone()[0]
 Использование функции AVG
 cursor.execute('SELECT AVG(balance) FROM Users')
 average_balance = cursor.fetchone()[0]
+print(average_balance)
 """
 print(total_balance / total_records)
 
